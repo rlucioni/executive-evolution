@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="difference" type="double" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="color" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Lyndon B. Johnson" label="Lyndon B. Johnson">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="George Bush" label="George Bush">
+        <attvalues>
+          <attvalue for="0" value="red" />
+        </attvalues>
+      </node>
+      <node id="Franklin D. Roosevelt" label="Franklin D. Roosevelt">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="William J. Clinton" label="William J. Clinton">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="Harry S. Truman" label="Harry S. Truman">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="Gerald R. Ford" label="Gerald R. Ford">
+        <attvalues>
+          <attvalue for="0" value="red" />
+        </attvalues>
+      </node>
+      <node id="John F. Kennedy" label="John F. Kennedy">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="Dwight D. Eisenhower" label="Dwight D. Eisenhower">
+        <attvalues>
+          <attvalue for="0" value="red" />
+        </attvalues>
+      </node>
+      <node id="Ronald Reagan" label="Ronald Reagan">
+        <attvalues>
+          <attvalue for="0" value="red" />
+        </attvalues>
+      </node>
+      <node id="George W. Bush" label="George W. Bush">
+        <attvalues>
+          <attvalue for="0" value="red" />
+        </attvalues>
+      </node>
+      <node id="Barack Obama" label="Barack Obama">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Carter" label="Jimmy Carter">
+        <attvalues>
+          <attvalue for="0" value="blue" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Lyndon B. Johnson" target="George Bush" weight="0.210106382979">
+        <attvalues>
+          <attvalue for="1" value="4.75949367089" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Lyndon B. Johnson" target="Franklin D. Roosevelt" weight="0.0590565896688">
+        <attvalues>
+          <attvalue for="1" value="16.9329113924" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Lyndon B. Johnson" target="William J. Clinton" weight="4.72012578616">
+        <attvalues>
+          <attvalue for="1" value="0.211858760826" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Lyndon B. Johnson" target="Harry S. Truman" weight="0.0753308100813">
+        <attvalues>
+          <attvalue for="1" value="13.2747809153" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Lyndon B. Johnson" target="Gerald R. Ford" weight="0.108363497809">
+        <attvalues>
+          <attvalue for="1" value="9.22819971871" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Lyndon B. Johnson" target="John F. Kennedy" weight="0.0672780871274">
+        <attvalues>
+          <attvalue for="1" value="14.8636806232" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Lyndon B. Johnson" target="Dwight D. Eisenhower" weight="0.113660532209">
+        <attvalues>
+          <attvalue for="1" value="8.79812878371" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Lyndon B. Johnson" target="Jimmy Carter" weight="0.107513534532">
+        <attvalues>
+          <attvalue for="1" value="9.30115454166" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Lyndon B. Johnson" target="George W. Bush" weight="0.22917987343">
+        <attvalues>
+          <attvalue for="1" value="4.36338490389" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Lyndon B. Johnson" target="Barack Obama" weight="0.151205864711">
+        <attvalues>
+          <attvalue for="1" value="6.61350009085" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Lyndon B. Johnson" target="Ronald Reagan" weight="0.354636173375">
+        <attvalues>
+          <attvalue for="1" value="2.8197913103" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="George Bush" target="Franklin D. Roosevelt" weight="0.0821461994385">
+        <attvalues>
+          <attvalue for="1" value="12.1734177215" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="George Bush" target="William J. Clinton" weight="0.219894520949">
+        <attvalues>
+          <attvalue for="1" value="4.54763491006" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="George Bush" target="Harry S. Truman" weight="0.0554499708442">
+        <attvalues>
+          <attvalue for="1" value="18.0342745862" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="George Bush" target="Gerald R. Ford" weight="0.0714914154999">
+        <attvalues>
+          <attvalue for="1" value="13.9876933896" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="George Bush" target="John F. Kennedy" weight="0.0989688734702">
+        <attvalues>
+          <attvalue for="1" value="10.1041869523" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="George Bush" target="Dwight D. Eisenhower" weight="0.247608405331">
+        <attvalues>
+          <attvalue for="1" value="4.03863511282" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="George Bush" target="Ronald Reagan" weight="0.131938567092">
+        <attvalues>
+          <attvalue for="1" value="7.57928498118" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="George Bush" target="George W. Bush" weight="0.109614524824">
+        <attvalues>
+          <attvalue for="1" value="9.12287857478" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="George Bush" target="Barack Obama" weight="0.0879275959303">
+        <attvalues>
+          <attvalue for="1" value="11.3729937617" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="George Bush" target="Jimmy Carter" weight="0.0711204764449">
+        <attvalues>
+          <attvalue for="1" value="14.0606482125" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Franklin D. Roosevelt" target="William J. Clinton" weight="0.0598048473403">
+        <attvalues>
+          <attvalue for="1" value="16.7210526316" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Franklin D. Roosevelt" target="Harry S. Truman" weight="0.0331041507512">
+        <attvalues>
+          <attvalue for="1" value="30.2076923077" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Franklin D. Roosevelt" target="Gerald R. Ford" weight="0.038224676152">
+        <attvalues>
+          <attvalue for="1" value="26.1611111111" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Franklin D. Roosevelt" target="John F. Kennedy" weight="0.483271375465">
+        <attvalues>
+          <attvalue for="1" value="2.06923076923" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Franklin D. Roosevelt" target="Dwight D. Eisenhower" weight="0.122928915019">
+        <attvalues>
+          <attvalue for="1" value="8.1347826087" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Franklin D. Roosevelt" target="Ronald Reagan" weight="0.0506259834439">
+        <attvalues>
+          <attvalue for="1" value="19.7527027027" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Franklin D. Roosevelt" target="George W. Bush" weight="0.0469565217391">
+        <attvalues>
+          <attvalue for="1" value="21.2962962963" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Franklin D. Roosevelt" target="Barack Obama" weight="0.0424693164269">
+        <attvalues>
+          <attvalue for="1" value="23.5464114833" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Franklin D. Roosevelt" target="Jimmy Carter" weight="0.0381183764085">
+        <attvalues>
+          <attvalue for="1" value="26.2340659341" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="William J. Clinton" target="Harry S. Truman" weight="0.0741474543708">
+        <attvalues>
+          <attvalue for="1" value="13.4866396761" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="William J. Clinton" target="Gerald R. Ford" weight="0.105931547158">
+        <attvalues>
+          <attvalue for="1" value="9.44005847953" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="William J. Clinton" target="John F. Kennedy" weight="0.0682508980381">
+        <attvalues>
+          <attvalue for="1" value="14.6518218623" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="William J. Clinton" target="Dwight D. Eisenhower" weight="0.116465007196">
+        <attvalues>
+          <attvalue for="1" value="8.58627002288" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="William J. Clinton" target="Ronald Reagan" weight="0.329853372434">
+        <attvalues>
+          <attvalue for="1" value="3.03165007112" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="William J. Clinton" target="George W. Bush" weight="0.218567594052">
+        <attvalues>
+          <attvalue for="1" value="4.57524366472" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="William J. Clinton" target="Barack Obama" weight="0.146512443042">
+        <attvalues>
+          <attvalue for="1" value="6.82535885167" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="William J. Clinton" target="Jimmy Carter" weight="0.105119163424">
+        <attvalues>
+          <attvalue for="1" value="9.51301330249" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Harry S. Truman" target="Gerald R. Ford" weight="0.247122188193">
+        <attvalues>
+          <attvalue for="1" value="4.04658119658" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Harry S. Truman" target="John F. Kennedy" weight="0.0355385456534">
+        <attvalues>
+          <attvalue for="1" value="28.1384615385" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Harry S. Truman" target="Dwight D. Eisenhower" weight="0.0453044031637">
+        <attvalues>
+          <attvalue for="1" value="22.072909699" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Harry S. Truman" target="Ronald Reagan" weight="0.095648110403">
+        <attvalues>
+          <attvalue for="1" value="10.454989605" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Harry S. Truman" target="George W. Bush" weight="0.112215863679">
+        <attvalues>
+          <attvalue for="1" value="8.9113960114" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Harry S. Truman" target="Barack Obama" weight="0.150121279429">
+        <attvalues>
+          <attvalue for="1" value="6.66128082444" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Harry S. Truman" target="Jimmy Carter" weight="0.251659292035">
+        <attvalues>
+          <attvalue for="1" value="3.97362637363" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Gerald R. Ford" target="John F. Kennedy" weight="0.0415077605322">
+        <attvalues>
+          <attvalue for="1" value="24.0918803419" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Gerald R. Ford" target="Dwight D. Eisenhower" weight="0.0554744134318">
+        <attvalues>
+          <attvalue for="1" value="18.0263285024" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Gerald R. Ford" target="Ronald Reagan" weight="0.156044985942">
+        <attvalues>
+          <attvalue for="1" value="6.40840840841" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Gerald R. Ford" target="George W. Bush" weight="0.205557670346">
+        <attvalues>
+          <attvalue for="1" value="4.86481481481" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Gerald R. Ford" target="Barack Obama" weight="0.382453108321">
+        <attvalues>
+          <attvalue for="1" value="2.61469962786" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Gerald R. Ford" target="Jimmy Carter" weight="13.7071129707">
+        <attvalues>
+          <attvalue for="1" value="0.0729548229548" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="John F. Kennedy" target="Dwight D. Eisenhower" weight="0.164865460962">
+        <attvalues>
+          <attvalue for="1" value="6.06555183946" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="John F. Kennedy" target="Jimmy Carter" weight="0.0413824465666">
+        <attvalues>
+          <attvalue for="1" value="24.1648351648" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="John F. Kennedy" target="George W. Bush" weight="0.052010016744">
+        <attvalues>
+          <attvalue for="1" value="19.2270655271" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="John F. Kennedy" target="Barack Obama" weight="0.0465610460384">
+        <attvalues>
+          <attvalue for="1" value="21.477180714" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="John F. Kennedy" target="Ronald Reagan" weight="0.0565499808953">
+        <attvalues>
+          <attvalue for="1" value="17.6834719335" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Dwight D. Eisenhower" target="Jimmy Carter" weight="0.0552508064559">
+        <attvalues>
+          <attvalue for="1" value="18.0992833254" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Dwight D. Eisenhower" target="George W. Bush" weight="0.075979102688">
+        <attvalues>
+          <attvalue for="1" value="13.1615136876" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Dwight D. Eisenhower" target="Barack Obama" weight="0.0648860680555">
+        <attvalues>
+          <attvalue for="1" value="15.4116288746" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Dwight D. Eisenhower" target="Ronald Reagan" weight="0.0860739264781">
+        <attvalues>
+          <attvalue for="1" value="11.617920094" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Ronald Reagan" target="George W. Bush" weight="0.647838915729">
+        <attvalues>
+          <attvalue for="1" value="1.54359359359" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Ronald Reagan" target="Barack Obama" weight="0.263594297255">
+        <attvalues>
+          <attvalue for="1" value="3.79370878055" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Ronald Reagan" target="Jimmy Carter" weight="0.154288529173">
+        <attvalues>
+          <attvalue for="1" value="6.48136323136" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="George W. Bush" target="Barack Obama" weight="0.44442169263">
+        <attvalues>
+          <attvalue for="1" value="2.25011518696" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="George W. Bush" target="Jimmy Carter" weight="0.202520585884">
+        <attvalues>
+          <attvalue for="1" value="4.93776963777" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Barack Obama" target="Jimmy Carter" weight="0.372071640273">
+        <attvalues>
+          <attvalue for="1" value="2.68765445081" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
