@@ -1,0 +1,174 @@
+[
+  {
+    "president": "George Washington", 
+    "rating": "2.94117647059"
+  }, 
+  {
+    "president": "John Adams", 
+    "rating": "13.4117647059"
+  }, 
+  {
+    "president": "Thomas Jefferson", 
+    "rating": "4.76470588235"
+  }, 
+  {
+    "president": "James Madison", 
+    "rating": "13.9411764706"
+  }, 
+  {
+    "president": "James Monroe", 
+    "rating": "14.8823529412"
+  }, 
+  {
+    "president": "John Quincy Adams", 
+    "rating": "18.7058823529"
+  }, 
+  {
+    "president": "Andrew Jackson", 
+    "rating": "10.0588235294"
+  }, 
+  {
+    "president": "Martin Van Buren", 
+    "rating": "25.0"
+  }, 
+  {
+    "president": "William Henry Harrison", 
+    "rating": "38.6"
+  }, 
+  {
+    "president": "John Tyler", 
+    "rating": "34.6470588235"
+  }, 
+  {
+    "president": "James K. Polk", 
+    "rating": "11.8235294118"
+  }, 
+  {
+    "president": "Zachary Taylor", 
+    "rating": "31.8823529412"
+  }, 
+  {
+    "president": "Millard Fillmore", 
+    "rating": "35.3529411765"
+  }, 
+  {
+    "president": "Franklin Pierce", 
+    "rating": "38.3529411765"
+  }, 
+  {
+    "president": "James Buchanan", 
+    "rating": "40.2941176471"
+  }, 
+  {
+    "president": "Abraham Lincoln", 
+    "rating": "1.64705882353"
+  }, 
+  {
+    "president": "Andrew Johnson", 
+    "rating": "37.5882352941"
+  }, 
+  {
+    "president": "Ulysses S. Grant", 
+    "rating": "33.4117647059"
+  }, 
+  {
+    "president": "Rutherford B Hayes", 
+    "rating": "25.4705882353"
+  }, 
+  {
+    "president": "James A. Garfield", 
+    "rating": "32.4"
+  }, 
+  {
+    "president": "Chester A. Arthur", 
+    "rating": "27.7647058824"
+  }, 
+  {
+    "president": "Grover Cleveland", 
+    "rating": "17.2352941176"
+  }, 
+  {
+    "president": "Benjamin Harrison", 
+    "rating": "30.0"
+  }, 
+  {
+    "president": "William McKinley", 
+    "rating": "17.8235294118"
+  }, 
+  {
+    "president": "Theodore Roosevelt", 
+    "rating": "5.0"
+  }, 
+  {
+    "president": "William Howard Taft", 
+    "rating": "22.4705882353"
+  }, 
+  {
+    "president": "Woodrow Wilson", 
+    "rating": "7.35294117647"
+  }, 
+  {
+    "president": "Warren G. Harding", 
+    "rating": "40.1176470588"
+  }, 
+  {
+    "president": "Calvin Coolidge", 
+    "rating": "30.0588235294"
+  }, 
+  {
+    "president": "Herbert Hoover", 
+    "rating": "30.0"
+  }, 
+  {
+    "president": "Franklin D. Roosevelt", 
+    "rating": "2.17647058824"
+  }, 
+  {
+    "president": "Harry S. Truman", 
+    "rating": "7.625"
+  }, 
+  {
+    "president": "Dwight D. Eisenhower", 
+    "rating": "10.625"
+  }, 
+  {
+    "president": "John F. Kennedy", 
+    "rating": "12.7333333333"
+  }, 
+  {
+    "president": "Lyndon B. Johnson", 
+    "rating": "14.2666666667"
+  }, 
+  {
+    "president": "Richard M. Nixon", 
+    "rating": "31.8666666667"
+  }, 
+  {
+    "president": "Gerald R. Ford", 
+    "rating": "27.7333333333"
+  }, 
+  {
+    "president": "Jimmy Carter", 
+    "rating": "28.2666666667"
+  }, 
+  {
+    "president": "Ronald Reagan", 
+    "rating": "16.2307692308"
+  }, 
+  {
+    "president": "George Bush", 
+    "rating": "23.5833333333"
+  }, 
+  {
+    "president": "William J. Clinton", 
+    "rating": "21.2727272727"
+  }, 
+  {
+    "president": "George W. Bush", 
+    "rating": "36.5"
+  }, 
+  {
+    "president": "Barack Obama", 
+    "rating": "29.0"
+  }
+]
