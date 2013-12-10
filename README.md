@@ -1,7 +1,6 @@
 # The Evolution of the American Presidency #
 
 #### Authors: Renzo Lucioni, Kathy Lin, Sherrie Wang, and Matthew Moellman ####
-=============
 
 This repo contains the iPython process book and associated data used for our final project in Harvard's CS109: Data Science.
 
